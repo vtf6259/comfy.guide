@@ -279,8 +279,6 @@ If you need to delete a connection, you can do so with:
 
 This command deletes the network connection associated with the specified 'connect name'.
 
-Sure, I'd be happy to help you improve and expand your guide. Here's a revised version of your text:
-
 ## 5.2) Configuring the DNS  <a name='id5.2'></a>
 
 One of the crucial steps in setting up your internet connection is configuring the Domain Name System (DNS). This step is important to ensure seamless connectivity and to avoid potential issues, such as those that might occur with Microsoft services. 
